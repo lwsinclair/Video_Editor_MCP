@@ -1,3 +1,5 @@
+[![MseeP Badge](https://mseep.net/pr/kush36agrawal-video-editor-mcp-badge.jpg)](https://mseep.ai/app/kush36agrawal-video-editor-mcp)
+
 # Video Editor MCP Server
 
 A powerful video editing MCP server that leverages FFmpeg to perform video editing operations through natural language commands.
